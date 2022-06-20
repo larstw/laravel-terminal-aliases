@@ -1,2 +1,1 @@
-# shell-shortcuts
-A collection of Shell shortcuts that I use while developing.
+This repository contains a single `.zshrc`, which contains useful shortcuts and some other configuration for the terminal (you read more at https://github.com/ohmyzsh/ohmyzsh).
