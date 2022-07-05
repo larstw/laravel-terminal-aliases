@@ -11,12 +11,12 @@ alias cda="composer du"
 alias su="sail up"
 alias sud="sail up -d"
 
-alias samf="sail php artisan migrate:fresh"
-alias samfs="sail php artisan migrate:fresh --seed"
-alias saoc="sail php artisan optimize:clear"
+alias pamf="sail php artisan migrate:fresh"
+alias pamfs="sail php artisan migrate:fresh --seed"
+alias paoc="sail php artisan optimize:clear"
 
-alias samm="sail php artisan make:model"
-alias samc="sail php artisan make:controller"
+alias pamm="sail php artisan make:model"
+alias pamc="sail php artisan make:controller"
 
 alias test="sail php artisan test"
 
